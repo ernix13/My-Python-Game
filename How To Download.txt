@@ -1,0 +1,6 @@
+Hello,
+if you want to download one of my games please click on code, then click on download zip file.
+If asked, extract all the files(in the files app after the zip file has installed) and you are almost done.
+The last thing you want to do is click on properties(of the game in the file app) and chose cancel block.
+After this you can open the game whenever you want,
+thank you for installing, bye. 
